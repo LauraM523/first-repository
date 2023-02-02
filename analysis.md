@@ -29,6 +29,8 @@ summary(cars)
 
 ## Including Plots
 
+Adding a new note from Laura
+
 You can also embed plots, for example:
 
 ![](analysis_files/figure-gfm/pressure-1.png)<!-- -->
