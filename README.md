@@ -13,3 +13,5 @@ Creating a merge conflict line 10 + another conflict from
 
 evil conflict
 
+
+Editing the readme file
