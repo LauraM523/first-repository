@@ -7,4 +7,4 @@ hello from Marisa
 Hello from Laura!!!
 
 
-Creating a merge conflict line 10 
+Creating a merge conflict line 10 + another conflict from 
